@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { Plus, Check, Trash2, Clock } from 'lucide-react'
+import { Plus, Check, Trash2 } from 'lucide-react'
 
 export default function ToDoList() {
   const [inputValue, setInputValue] = useState('')

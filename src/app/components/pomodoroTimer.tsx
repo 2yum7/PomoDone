@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { Play, Pause, RotateCcw, Clock, Coffee } from 'lucide-react';
+import { Play, Pause, RotateCcw } from 'lucide-react'
 
 export default function PomodoroTimer() {
   const [timeLeft, setTimeLeft] = useState(1500);
