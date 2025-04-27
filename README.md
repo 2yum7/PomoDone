@@ -1,5 +1,6 @@
 # Pomodoro Task Manager 🕑✅
 
+🚧 This project is currently under active development. Features and UI may change.
 A modern, dark-themed Pomodoro Timer and Task Manager built with Next.js and Tailwind CSS.
 
 Designed for focus and productivity with a clean, minimalist interface.
